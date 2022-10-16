@@ -1,0 +1,25 @@
+
+
+from selenium.webdriver.common.by import By
+
+
+Pandas
+pip install pandas
+
+numpy
+pip install numpy
+
+Time
+pip install python-time
+
+selenium
+pip install selenium
+
+webdriver-manager
+pip install webdriver-manager
+
+BeautifulSoup
+pip install beautifulsoup4
+
+Requests
+pip install requests
